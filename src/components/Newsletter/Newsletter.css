@@ -20,9 +20,10 @@
     margin-top: 1.5rem;
     margin-bottom: 5rem;
     height: fixed;
+    font-weight: bold;
 }
 
-.newsletter-button :hover {
+.newsletter-button:hover {
     background-color: darkkhaki;
     border-color: tomato;
 
