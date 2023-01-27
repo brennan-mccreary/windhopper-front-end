@@ -1,6 +1,7 @@
 .newsletter-container {
     margin: auto;
     width: 40vw;
+    min-width: 20rem;
     text-align: center;
     padding-top: 12vh;
 }
@@ -17,7 +18,14 @@
     font-size: 3vh;
     width: 45%;
     margin-top: 1.5rem;
+    margin-bottom: 5rem;
     height: fixed;
+}
+
+.newsletter-button :hover {
+    background-color: darkkhaki;
+    border-color: tomato;
+
 }
 
 .newsletter-input {
@@ -26,7 +34,7 @@
     border-radius: 10px;
     height: 60px;
     width: 20vw;
-    width: 100%;
+    min-width: 20rem;
     padding: 0px 30px 0px;
     font-size: 1.4rem;
     color:rgb(214, 214, 214)
