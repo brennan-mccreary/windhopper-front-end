@@ -10,6 +10,7 @@ import './Home.css';
 import Mission from '../../components/Mission/Mission';
 import Newsletter from '../../components/Newsletter/Newsletter';
 import SocialMediaButtons from '../../components/SocialMediaButtons/SocialMediaButtons';
+import Portfolio from '../../components/Portfolio/Portfolio';
 
 //Stateless functional component
 const Home = (props) => {
@@ -19,6 +20,7 @@ const Home = (props) => {
             <SocialMediaButtons/>
             <Mission/>
             <Newsletter/>
+            <Portfolio/>
         </div>
      );
 }
