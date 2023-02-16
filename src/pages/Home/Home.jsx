@@ -20,7 +20,7 @@ const Home = (props) => {
             <SocialMediaButtons/>
             <Mission/>
             <Newsletter/>
-            <Portfolio/>
+            {/* <Portfolio/> */}
         </div>
      );
 }
