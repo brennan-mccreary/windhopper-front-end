@@ -15,6 +15,14 @@
     color: tomato;
 }
 
+.home-image {
+    display: block;
+    padding-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
 /* .img-cards-container {
     padding-top: 7.5rem;
 }
