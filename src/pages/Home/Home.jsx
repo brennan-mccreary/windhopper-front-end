@@ -5,7 +5,7 @@ import React from 'react';
 //     Route,
 //     Routes } from 'react-router-dom';
 import './Home.css';
-import HeaderImage from '../../images/WHG-Logo-NoBG.png';
+import HeaderImage from '../../images/WHG_Logo.svg';
 
 //Import Components
 import Mission from '../../components/Mission/Mission';
