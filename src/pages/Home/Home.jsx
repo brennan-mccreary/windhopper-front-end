@@ -12,6 +12,7 @@ import Mission from '../../components/Mission/Mission';
 import Newsletter from '../../components/Newsletter/Newsletter';
 import SocialMediaButtons from '../../components/SocialMediaButtons/SocialMediaButtons';
 import Portfolio from '../../components/Portfolio/Portfolio';
+import Team from '../../components/Team/Team';
 
 //Stateless functional component
 const Home = (props) => {
@@ -21,8 +22,9 @@ const Home = (props) => {
             <h1 className='home-title home-center'>Windhopper Games</h1>
             <SocialMediaButtons/>
             <Mission/>
-            <Newsletter/>
+            {/* <Newsletter/> */}
             {/* <Portfolio/> */}
+            <Team/>
         </div>
      );
 }

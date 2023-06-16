@@ -1,14 +1,14 @@
 {
   "main.css": "/static/css/main.165ebcaf.chunk.css",
-  "main.js": "/static/js/main.f2956eff.chunk.js",
-  "main.js.map": "/static/js/main.f2956eff.chunk.js.map",
+  "main.js": "/static/js/main.5cc28f4c.chunk.js",
+  "main.js.map": "/static/js/main.5cc28f4c.chunk.js.map",
   "static/js/1.35f9f452.chunk.js": "/static/js/1.35f9f452.chunk.js",
   "static/js/1.35f9f452.chunk.js.map": "/static/js/1.35f9f452.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/WHG-Logo-NoBG.png": "/static/media/WHG-Logo-NoBG.040bf718.png",
+  "static/media/WHG_Logo.svg": "/static/media/WHG_Logo.64bbf311.svg",
   "static/css/main.165ebcaf.chunk.css.map": "/static/css/main.165ebcaf.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.adb01ea5c6e007dc533e2b2bf1f6d6c1.js": "/precache-manifest.adb01ea5c6e007dc533e2b2bf1f6d6c1.js",
+  "precache-manifest.54c585920be050280ca2416fc74060d5.js": "/precache-manifest.54c585920be050280ca2416fc74060d5.js",
   "service-worker.js": "/service-worker.js"
 }

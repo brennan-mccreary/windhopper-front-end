@@ -17,10 +17,11 @@
 
 .home-image {
     display: block;
-    padding-top: 3rem;
+    padding-top: 1rem;
     margin-left: auto;
     margin-right: auto;
     width: 30%;
+    min-width: 20rem;
 }
 
 /* .img-cards-container {

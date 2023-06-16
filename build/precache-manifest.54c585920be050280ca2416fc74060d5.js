@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "f2956effe56c25b515cd",
+    "revision": "5cc28f4c2f3c93b41a16",
     "url": "/static/css/main.165ebcaf.chunk.css"
   },
   {
-    "revision": "f2956effe56c25b515cd",
-    "url": "/static/js/main.f2956eff.chunk.js"
+    "revision": "5cc28f4c2f3c93b41a16",
+    "url": "/static/js/main.5cc28f4c.chunk.js"
   },
   {
     "revision": "35f9f452859101e2c9f0",
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "040bf7182462b2b0db7a6d9d1b7de836",
-    "url": "/static/media/WHG-Logo-NoBG.040bf718.png"
+    "revision": "64bbf31157756468a6bf8f181c3bf9ba",
+    "url": "/static/media/WHG_Logo.64bbf311.svg"
   },
   {
-    "revision": "8f0f152c728a252e0a54eef77cfffed3",
+    "revision": "c82053c36950982a831a50cf28798fc1",
     "url": "/index.html"
   }
 ];

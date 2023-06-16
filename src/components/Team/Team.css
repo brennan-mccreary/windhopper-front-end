@@ -1,0 +1,24 @@
+.car-container {
+    width: 90%;
+    max-width: 750px;
+    margin: auto;
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+
+.car-container-item {
+    width: 75%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.car-container-img {
+    width: 35%;
+    border-radius: 1000px;
+}
+
+.car-container-text {
+    height: 9rem;
+}
