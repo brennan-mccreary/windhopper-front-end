@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/static/media/WHG_Logo.64bbf311.svg"
   },
   {
-    "revision": "42fd874a4849c0661989fc4d0ffa5d28",
+    "revision": "946c7a85edba49e9504e72944ca5cf26",
     "url": "/index.html"
   }
 ];
